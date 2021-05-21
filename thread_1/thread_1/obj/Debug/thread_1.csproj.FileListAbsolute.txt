@@ -1,0 +1,6 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_1\thread_1\bin\Debug\thread_1.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_1\thread_1\bin\Debug\thread_1.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_1\thread_1\bin\Debug\thread_1.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_1\thread_1\obj\Debug\thread_1.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_1\thread_1\obj\Debug\thread_1.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_1\thread_1\obj\Debug\thread_1.pdb

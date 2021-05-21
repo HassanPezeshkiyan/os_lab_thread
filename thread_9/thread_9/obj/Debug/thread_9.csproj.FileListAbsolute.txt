@@ -1,0 +1,6 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_9\thread_9\bin\Debug\thread_9.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_9\thread_9\bin\Debug\thread_9.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_9\thread_9\bin\Debug\thread_9.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_9\thread_9\obj\Debug\thread_9.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_9\thread_9\obj\Debug\thread_9.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_9\thread_9\obj\Debug\thread_9.pdb

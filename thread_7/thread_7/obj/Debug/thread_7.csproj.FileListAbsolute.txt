@@ -1,0 +1,5 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_7\thread_7\bin\Debug\thread_7.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_7\thread_7\bin\Debug\thread_7.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_7\thread_7\bin\Debug\thread_7.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_7\thread_7\obj\Debug\thread_7.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_7\thread_7\obj\Debug\thread_7.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_14\thread_14\bin\Debug\thread_14.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_14\thread_14\obj\Debug\thread_14.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_14\thread_14\bin\Debug\thread_14.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_14\thread_14\bin\Debug\thread_14.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_14\thread_14\obj\Debug\thread_14.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_14\thread_14\obj\Debug\thread_14.pdb

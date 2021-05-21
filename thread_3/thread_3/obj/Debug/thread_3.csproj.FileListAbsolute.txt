@@ -1,0 +1,5 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_3\thread_3\bin\Debug\thread_3.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_3\thread_3\bin\Debug\thread_3.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_3\thread_3\bin\Debug\thread_3.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_3\thread_3\obj\Debug\thread_3.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\thread_3\thread_3\obj\Debug\thread_3.pdb
